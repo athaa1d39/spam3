@@ -1,0 +1,5 @@
+#ini untuk bahan project biar tidak error!!!
+requests
+mechanize
+colorama
+bs4

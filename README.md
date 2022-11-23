@@ -1,0 +1,3 @@
+#halo saya bernama abenk
+#disini saya hanya membagikan 3 spam sms + wa 
+#kalo ada yang erorr nanti saya perbaiki script ini untuk percobaan saja...
